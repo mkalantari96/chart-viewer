@@ -17,7 +17,7 @@ A React application to visualize **single-series** and **multi-series** chart da
 
 ## Demo
 
-./chart-screenshot.png
+![chart-screenshot image](chart-screenshot.png)
 
 ---
 
