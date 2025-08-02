@@ -17,7 +17,7 @@ A React application to visualize **single-series** and **multi-series** chart da
 
 ## Demo
 
-[Screenshot of Chart Viewer](./Chart Rendering Screen Shot.png)
+[Screenshot of Chart Viewer](./chart-screenshot.png)
 
 ---
 
